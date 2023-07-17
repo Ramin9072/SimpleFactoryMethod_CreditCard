@@ -7,6 +7,9 @@
         public long GetAnnualCharge();
     }
 
+    // open close 
+    // این رو زیر سوال میبرد
+    // برای این از CreditCardFactory2 رجوع کنید
     public static class CreditCardFactory
     {
         public static ICreditCard GetCreditCard(string cardType)
